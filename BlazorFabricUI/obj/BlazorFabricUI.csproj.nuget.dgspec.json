@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RAFI\\Documents\\Projects\\Personal\\RCL\\BlazorFabricUI\\BlazorFabricUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RAFI\\Documents\\Projects\\Personal\\RCL\\BlazorFabricUI\\BlazorFabricUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RAFI\\Documents\\Projects\\Personal\\RCL\\BlazorFabricUI\\BlazorFabricUI.csproj",
+        "projectName": "BlazorFabricUI",
+        "projectPath": "C:\\Users\\RAFI\\Documents\\Projects\\Personal\\RCL\\BlazorFabricUI\\BlazorFabricUI.csproj",
+        "packagesPath": "C:\\Users\\RAFI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RAFI\\Documents\\Projects\\Personal\\RCL\\BlazorFabricUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RAFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\RAFI\\Documents\\Projects\\RAFO\\Portal\\Prototypes\\Blazor\\RAFOPortal.ServiceRegistryUI\\RAFOPortal.ServiceRegistryUI\\bin\\Debug": {},
+          "C:\\Users\\RAFI\\Documents\\Projects\\RMF\\Instafin-D365 Integration\\Nuget Packages": {},
+          "C:\\Users\\RAFI\\Documents\\Projects\\Shared\\Agility Framework\\Http\\AgilityFramework.Http\\nupkg": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/rafi-secdevops/_packaging/rafi-secdevops-artifacts/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
