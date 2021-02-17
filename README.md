@@ -1,6 +1,6 @@
 ### Introduction
 
-This repository contains Fabric react components ported into Razor components.
+Blazor port for Fabric components not continued in Fluent UI.
 
 ### Downloads
 
@@ -8,15 +8,17 @@ You can get the latest package on [Nuget](blank://).
 
 ### Usage & Examples
 
-To be documented
+To be documented.
 
 ### Features
+
+No features yet.
 
 #### Implemented
 
 #### Planned
 
-+ Card
++ Card.
 
 ### Credits
 
